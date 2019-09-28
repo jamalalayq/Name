@@ -1,3 +1,3 @@
 # Name
 
-A description of this package.
+A new swift data type to validate user names.
